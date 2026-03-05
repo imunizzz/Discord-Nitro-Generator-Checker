@@ -131,12 +131,12 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contact
 
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
+imunizzz - [@imuniz_tv](https://www.discordapp.com) - 
 
 
 
 <!-- Statistics -->  
 
 <p>
-<img src=https://komarev.com/ghpvc/?username=Drillenissen />
+<img src=https://komarev.com/ghpvc/?username=imuniz.tv />
 </p>
